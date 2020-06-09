@@ -1,1 +1,2 @@
 git init Dieser Befehl erstellt ein Git Repository
+git add Datei zum Repository hinzufügen
